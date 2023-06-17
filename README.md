@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wooonderful
 - 👀 I’m interested in CloudCompute\Iot\CloudNative
-- 🌱 I’m currently learning Read & Write skill
+- 🌱 I’m currently work on Iiot & IoV project
 - 💞️ I’m looking to collaborate on CloudNative project
 - 📫 You can touch me by `wooonderful@outlook.com`
 
