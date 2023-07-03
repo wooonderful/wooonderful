@@ -6,8 +6,10 @@
 
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wooonderful&show_icons=true&count_private=true) 
- 
+ <!--
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=wooonderful&show_icons=true&count_private=true) 
+-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooonderful)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=wooonderful)  
